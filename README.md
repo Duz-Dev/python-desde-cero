@@ -1,12 +1,12 @@
-# Aprende Python 2024
+# Aprende Python desde Cero
 
 ## ¡Bienvenido
 
-Soy [Pablo.css](https://github.com/Duz-Dev) y este repositorio es un recurso completo para aprender **Python** desde cero en 2024. Contiene teoría, ejercicios y recursos organizados por temas, pensado para principiantes y aquellos que desean reforzar sus conocimientos.
+Soy [Pablo.css](https://github.com/Duz-Dev) y este repositorio es un recurso completo para aprender **Python** desde cero. Contiene teoría, ejercicios y recursos organizados por temas, pensado para principiantes y aquellos que desean reforzar sus conocimientos.
 
 Si es tu primera vez con Python, te recomiendo complementar este material con [AprendePython.es](https://aprendepython.es/) y la [documentación oficial de Python](https://docs.python.org/es/3/)
 
-En caso de tener dudas sobre algún tema en especifico, puedes unirte a nuestra [comunidad de Discord![FrontEnd | Sin Fronteras](https://i.postimg.cc/rFDbkv1m/image.png)](https://discord.gg/Rfzr3pMkr2)
+En caso de tener dudas sobre algún tema en especifico, puedes unirte a nuestra [comunidad de Discord![El Universo Digital](https://i.postimg.cc/rFDbkv1m/image.png)](https://discord.gg/Rfzr3pMkr2)
 
 ---
 
@@ -86,4 +86,4 @@ Este proyecto está licenciado bajo la [Licencia Creative Commons Atribución-No
 
 ## ¡Gracias por unirte
 
-Espero que este repositorio sea útil en tu camino para aprender Python. Si tienes dudas o sugerencias, no dudes en abrir un issue o contactarme directamente en [GitHub](https://github.com/Duz-Dev).
+Espero que este repositorio sea útil en tu camino para aprender Python. Si tienes dudas o sugerencias, no dudes en abrir un issue o contactarme directamente en [Discord: Pablo.css](https://discord.com/invite/BXFEVqvf).
